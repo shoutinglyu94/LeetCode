@@ -1,3 +1,5 @@
+package other;
+
 import com.sun.javafx.scene.traversal.Direction;
 
 import java.util.Random;
@@ -90,7 +92,7 @@ End conditions:
 
     private boolean merge(int dir) {
         int[] row = new int[4];
-
+        return true;
     }
 
 

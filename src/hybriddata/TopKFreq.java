@@ -1,4 +1,4 @@
-package hybrid;
+package hybriddata;
 
 import java.util.*;
 
