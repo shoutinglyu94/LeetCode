@@ -5,6 +5,16 @@ import java.util.List;
 
 public class BFSBenchMark {
     public static void main(String[] args) {
+
+    }
+
+    private static void testMaze() {
+//        int[][] maze = new int[][] {
+//                {}
+//        }
+    }
+
+    private static void testWordLadder2() {
         String start = "hit";
         String end = "cog";
         String[] wordArray = new String[] {
