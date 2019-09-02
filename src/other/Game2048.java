@@ -1,7 +1,4 @@
 package other;
-
-import com.sun.javafx.scene.traversal.Direction;
-
 import java.util.Random;
 
 public class Game2048 {

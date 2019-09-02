@@ -1,4 +1,4 @@
-package bfs;
+package graph.bfs;
 
 import java.util.*;
 
@@ -10,7 +10,7 @@ public class WordLadder2 {
         graph.put(start, new ArrayList<>());
 
         Map<String, Integer> distance = new HashMap<>();
-        // bfs: find the shortest paths from start to end,
+        // graph.bfs: find the shortest paths from start to end,
         // there could be more than one shortest paths.
         // record distance between nodes and start word
         // generate neighbors of nodes

@@ -1,4 +1,4 @@
-package bfs;
+package graph.bfs;
 
 import java.util.HashMap;
 import java.util.Map;

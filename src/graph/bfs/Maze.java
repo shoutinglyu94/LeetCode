@@ -1,4 +1,4 @@
-package bfs;
+package graph.bfs;
 
 import java.util.ArrayDeque;
 import java.util.HashSet;
